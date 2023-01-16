@@ -10,7 +10,7 @@ public class Student
     //model class for student template
     private String name;
     private int age;
-
+    private int sid;
     /**
      * @return the name
      */
